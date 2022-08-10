@@ -26,8 +26,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="220dp"
         android:fontFamily="sans-serif-light"
-        android:text="마지막 페이지"
         android:gravity="center"
+        android:text="마지막 페이지"
         android:textSize="20dp"
         app:layout_constraintBottom_toTopOf="@+id/btn_home"
         app:layout_constraintEnd_toEndOf="parent"
@@ -40,10 +40,10 @@
         android:id="@+id/btn_home"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginTop="612dp"
+        android:layout_marginTop="516dp"
         android:src="@drawable/home"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.536"
+        app:layout_constraintHorizontal_bias="0.52"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

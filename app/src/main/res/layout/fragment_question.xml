@@ -37,10 +37,10 @@
         android:id="@+id/question_next_btn"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginTop="612dp"
+        android:layout_marginTop="532dp"
         android:src="@drawable/next"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.536"
+        app:layout_constraintHorizontal_bias="0.546"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
